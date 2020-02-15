@@ -1,13 +1,12 @@
 ---
 home: true
-heroImage: /avatar.png
+heroImage: /logo.jpg
 heroImageStyle: {
-  maxWidth: '200px',
+  maxWidth: '300px',
   width: '100%',
   display: block,
   margin: '9rem auto 2rem',
   background: '#fff',
-  borderRadius: '1rem',
 }
 actionText: Get Started →
 actionLink: /en/guide/

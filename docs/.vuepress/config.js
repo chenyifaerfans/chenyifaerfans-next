@@ -13,7 +13,7 @@ module.exports = ctx => ({
     },
   },
   head: [
-    ['link', { rel: 'icon', href: `/logo.jpg` }],
+    ['link', { rel: 'icon', href: `/avatar.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
@@ -31,6 +31,7 @@ module.exports = ctx => ({
     searchMaxSuggestions: 10,
     // 自动形成侧边导航
     sidebar: 'auto',
+    logo: '/logo.jpg',
     // 最后更新时间
     lastUpdated: 'Last Updated', // string | boolean
     // 作者
