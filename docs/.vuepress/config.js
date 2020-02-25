@@ -103,7 +103,8 @@ module.exports = ctx => ({
     ],
     ['@vuepress/medium-zoom', true],
     ['flowchart'],
-    'aplayer'
+    'aplayer',
+    'dplayer',
   ],
   extraWatchFiles: ['.vuepress/nav/en.js', '.vuepress/nav/zh.js'],
 })
