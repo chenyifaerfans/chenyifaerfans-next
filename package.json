@@ -70,7 +70,7 @@
     "vue-server-renderer": "2.5.16",
     "vue-toasted": "1.1.25",
     "vuepress": "1.1.0",
-    "vuepress-plugin-aplayer": "^1.0.1",
+    "vuepress-plugin-aplayer": "^1.0.2",
     "vuepress-plugin-flowchart": "1.4.2",
     "vuepress-theme-reco": "^1.2.2"
   }
